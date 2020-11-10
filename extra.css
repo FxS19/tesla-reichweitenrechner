@@ -1,0 +1,15 @@
+.buttonf {
+    background-color: #f7f7f7;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    border: 2px solid #3090ff;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.disclamerf {
+    padding-top: 20px;
+}
